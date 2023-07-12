@@ -1,1 +1,0 @@
-The code is written in Python, and it is well-commented, so it is easy to understand and modify. The code is also modular, so it is easy to reuse the different functions in other projects. 
