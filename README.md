@@ -1,4 +1,4 @@
-# Python_practices
+# Python
 
 This project is a collection of my Python practices. I am an entry-level data analyst with a passion for using data to solve problems. I have been learning Python for the past year, and I have completed a number of projects using the language.
 
